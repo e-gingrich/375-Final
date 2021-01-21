@@ -5,7 +5,6 @@
 *.slo
 *.lo
 *.o
-*.obj
 
 # Precompiled Headers
 *.gch
@@ -30,3 +29,12 @@
 *.exe
 *.out
 *.app
+
+# Others
+*~
+Makefile.deps
+Main
+handin.zip
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+code/.vscode/settings.json
